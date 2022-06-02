@@ -6,6 +6,9 @@
 #### Версия конфигуратора
 ![Версия конфигуратора v7](https://user-images.githubusercontent.com/104857185/171525162-72eb48be-15e4-4c6d-ac9c-ce2f8240eb65.png)
 
+#### Версия прошивки панелей
+![Версия прошивки панелей](https://user-images.githubusercontent.com/104857185/171530138-8e5d42ad-e5fe-48f7-8638-87082a5d7565.png)
+
 #### Конфигурация панелей
 ![Конфигурация менеджера резервирования](https://user-images.githubusercontent.com/104857185/171525249-2db858d7-f589-4326-ac07-526b7c310047.png)
 ![1](https://user-images.githubusercontent.com/104857185/171525293-ff6c1944-f453-46c9-8135-0f50cebe9ab8.png)
@@ -26,6 +29,8 @@
 ![Этаж 1 в ММ-ке](https://user-images.githubusercontent.com/104857185/171527894-937f4d0d-e36a-41fb-b457-ce2efbee9d56.png)
 ![Этаж 2 в ММ-ке](https://user-images.githubusercontent.com/104857185/171527961-769292a5-4804-42f7-9c72-1b333ba7edcd.png)
 ![Этаж 3 в ММ-ке](https://user-images.githubusercontent.com/104857185/171527991-0c364215-1969-4333-9085-787807a2cfe8.png)
+
+Подложки на сервере в папке P:\Аэропорт Платов Ростов-на-Дону\Исполнительнпая документация\Текстовая часть\Расчеты\MM8000_Projects\Подложки
 
 #### Слои и глубины детализации
 ![Глубины детализации](https://user-images.githubusercontent.com/104857185/171526209-145333c4-177f-4cce-97b2-4e32c4d62958.png)
