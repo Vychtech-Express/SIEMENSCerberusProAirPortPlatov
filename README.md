@@ -29,7 +29,7 @@
 #### Windows Server для SCADA-системы
 ![Диспетчер устройств](https://user-images.githubusercontent.com/104857185/171526373-eed9d334-f64c-4b5f-ab3b-f1feb8cd6412.png)
 
-Конфигурация панелей *.fsc конвертируется в файл импорта *.xml, который импортируется в компосере ММ-ки
+Конфигурация панелей *.fsc конвертируется в файл импорта Sib-X *.xml, который импортируется в компосере ММ-ки
 
 #### SCADA-система DMS8000
 ![MM+MK](https://user-images.githubusercontent.com/104857185/171525499-a3278fcf-fb39-4e1b-a6b8-f7b289a14b10.png)
