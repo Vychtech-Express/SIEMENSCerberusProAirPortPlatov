@@ -87,8 +87,6 @@
 ![Локальные пользователи](https://user-images.githubusercontent.com/104857185/171527013-4f32d017-edd6-4975-b01b-e665e1dd5c26.png)
 ![Добавил права учетке DMS8000_PROC](https://user-images.githubusercontent.com/104857185/171526553-d64ef7a8-145e-4c1f-9466-e33b3a13e239.png)
 ![Свойства Admin_MM8000](https://user-images.githubusercontent.com/104857185/171527510-11d34f29-ffd1-46b1-baf6-3c8cc43c644d.png)
-
-#### Учетки в ММ-ке
 ![Учетки в ММ-ке](https://user-images.githubusercontent.com/104857185/171527792-57009abf-45a4-4eb1-a1c4-ed5c4171ac4f.png)
 
 #### Драйверы СУБД, системные DSN-ы
