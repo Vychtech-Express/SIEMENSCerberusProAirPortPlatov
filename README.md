@@ -73,16 +73,16 @@
 #### Порты OPC-сервера
 ![Входящие соединения на OPC-сервер](https://user-images.githubusercontent.com/104857185/171526115-e3d40d05-596e-418c-b919-25150b979fcf.png)
 
-#### Перенастройка на внешний MS SQL Server
+#### Переключение на внешний MS SQL Server
 ![Перенастройка на внешний SQL Server](https://user-images.githubusercontent.com/104857185/171527277-9038178c-d2d0-465c-a315-c314b747b55d.png)
+
+#### Базы данных ММ-ки на внешнем MS SQL Server-е
+![Базы данных ММ-ки](https://user-images.githubusercontent.com/104857185/171526034-bb69d479-af0b-4dd4-a317-e9b0cec51f64.png)
 
 #### Проверка лицензии и USB-вого ключа ММ-ки
 ![Проверка ограничений ключа](https://user-images.githubusercontent.com/104857185/171527458-faa0e3e0-9575-4e05-9c72-a36ed3267bd7.png)
 
 Лицензия ММ-ки на сервере в папке `P:\Аэропорт Платов Ростов-на-Дону\Исполнительнпая документация\Текстовая часть\Расчеты\MM8000_Projects\Лицензия 11736`
-
-#### Базы данных ММ-ки на внешнем MS SQL Server-е
-![Базы данных ММ-ки](https://user-images.githubusercontent.com/104857185/171526034-bb69d479-af0b-4dd4-a317-e9b0cec51f64.png)
 
 #### Учетки на сервере
 ![Локальные пользователи](https://user-images.githubusercontent.com/104857185/171527013-4f32d017-edd6-4975-b01b-e665e1dd5c26.png)
